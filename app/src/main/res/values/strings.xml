@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MADD3</string>
+
+    <string name="label_number_a">Number A</string>
+    <string name="label_number_b">Number B</string>
+    <string name="label_choose_operation">Choose Operation</string>
+    <string name="op_add">Add (+)</string>
+    <string name="op_subtract">Subtract (−)</string>
+    <string name="op_multiply">Multiply (×)</string>
+    <string name="op_divide">Divide (÷)</string>
+    <string name="btn_calculate">Calculate</string>
+
+    <string name="title_result">Result</string>
+    <string name="msg_invalid_input">Please enter both numbers.</string>
+    <string name="msg_divide_by_zero">Cannot divide by zero.</string>
+</resources>
